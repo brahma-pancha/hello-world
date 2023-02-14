@@ -1,26 +1,8 @@
-<html>
-<head>
-<link rel="stylesheet" href="style.css">
-<title> CSS Login Screen Tutorial </title>
-</head>
-<body>
-  <body>
-    <div class="login-page">
-      <div class="form">
-        <div class="login">
-          <div class="login-header">
-            <h3>LOGIN</h3>
-            <p>Please enter your credentials to login.</p>
-          </div>
-        </div>
-        <form class="login-form">
-          <input type="text" placeholder="username"/>
-          <input type="password" placeholder="password"/>
-          <button>login</button>
-          <p class="message">Not registered? <a href="#">Create an account</a></p>
-        </form>
-      </div>
-    </div>
-</body>
-</body>
-</html>
+<Html> <!-- This tag is compulsory for any HTML document. -->   
+<Head>  
+<!-- The Head tag is used to create a title of web page, CSS syntax for a web page, and helps in written a JavaScript code. -->  
+</Head>  
+<Body>  
+<!-- The Body tag is used to display the content on a web page. In this example we do not specify any content or any tag, so in output nothing will display on the web page. -->  
+</Body>  
+</Html>  
